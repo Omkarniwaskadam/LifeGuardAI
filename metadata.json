@@ -1,0 +1,10 @@
+{
+  "name": "LifeGuard AI",
+  "description": "An intelligent first-aid companion offering real-time audio/video guidance for medical emergencies using Gemini Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
